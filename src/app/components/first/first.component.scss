@@ -1,0 +1,23 @@
+div.container {
+  width: 100vw;
+  height: 50vh;
+  background-color: silver;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.prueba {
+  width: 20vw;
+  height: 10vh;
+  background-color: darkviolet;
+  display: grid;
+  text-align: center;
+  align-items: center;
+  font-size: 20px;
+  color: black;
+  -webkit-transition: all 1.5s 0s ease-in-out;
+  -moz-transition: all 1.5s 0s ease-in-out;
+  -o-transition: all 1.5s 0s ease-in-out;
+  transition: all 1.5s 0s ease-in-out;
+}
